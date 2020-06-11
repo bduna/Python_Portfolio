@@ -29,8 +29,6 @@ class Counter:
 	def __init__(self):
 		self.counter_one = 0
 		self.counter_two = 0
-		self.counter_three = 0
-		self.counter_four = 0
 
 	# function_one will increment self.counter_one
 	# each time it is run
@@ -65,4 +63,3 @@ c.function_two()
 print(c.counter_two)
 c.function_two()
 print(c.counter_two)
-
