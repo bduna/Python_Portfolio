@@ -63,4 +63,3 @@ c.function_two()
 print(c.counter_two)
 c.function_two()
 print(c.counter_two)
-
