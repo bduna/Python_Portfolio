@@ -1,7 +1,7 @@
 # Author: Barrett Duna
 
 """
-Wrapper for the Open Brewery Database (https://www.openbrewerydb.org/) project.
+Wrapper for the Open Brewery Database (https://www.openbrewerydb.org/) project API.
 Provides a query API called BreweryQuery that searches for breweries in the
 database by brewery name, city, state, postal code, type of brewery, by tag
 and provides functionality to get a brewery by id, search the breweries with a
